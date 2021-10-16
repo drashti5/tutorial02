@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">20SOECA21021</string>
+    <string name="label">About</string>
+    <string name="IMG_disc">This is a Image</string>
+    <string name="eno">20SOECA21021</string>
+    <string name="firstName">makadiya</string>
+    <string name="middleName">Drashti</string>
+    <string name="lastName">chhaganbhai</string>
+    <string name="email">dmakadiya534@rku.ac.in</string>
+    <string name="password">D3456778</string>
+    <string name="city">upleta</string>
+    <string name="gender">Female</string>
+</resources>
